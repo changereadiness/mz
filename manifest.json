@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-14T15:47:48.677844+00:00",
+  "content_hash": "0b0b166304174da75bf9c47deef949e5c175d2440f1995586d4f60e29b5ba6e5",
+  "counts": {
+    "variables": 8,
+    "roles": 5,
+    "directives": 40,
+    "patterns": 10,
+    "claims": 24,
+    "relationships": 13
+  }
+}
